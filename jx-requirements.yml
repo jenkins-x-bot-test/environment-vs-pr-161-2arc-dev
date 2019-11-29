@@ -90,6 +90,6 @@ vault:
   serviceAccount: vs-pr-161-2arc-vt
 velero: {}
 versionStream:
-  ref: f7bc985f36df4c6a5d5938c93622a4f8bce58f67
+  ref: 627a67a1a3e65388fa23c00514cadcc1ee0ebe96
   url: https://github.com/cloudbees/arcalos-jenkins-x-versions.git
 webhook: prow
